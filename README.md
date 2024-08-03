@@ -24,6 +24,8 @@ The availability and accessibility of public charging stations for electric vehi
 
 This shortage may hinder the adoption of electric vehicles in Hawaii, necessitating policies and initiatives to promote the installation of more public charging stations. Regular maintenance and upgrades of existing infrastructure are also essential to meet growing EV charging demands.
 
+https://github.com/Shashi-chintalapalli/Ev-market-segment/blob/main/electric_vehicle_charging_station_list.ipynb
+
 ## Data Collection
 
 The dataset from [data.hawaii.gov](https://data.hawaii.gov) includes:
